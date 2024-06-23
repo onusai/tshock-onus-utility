@@ -22,7 +22,7 @@ namespace OnusUtility
         public OnusUtility(Main game) : base(game) { }
         public override string Author => "Onusai";
         public override string Description => "A pack of utilities";
-        public override string Name => "Onus Utility";
+        public override string Name => "OnusUtility";
         public override Version Version => new Version(1, 0, 0, 1);
 
 
